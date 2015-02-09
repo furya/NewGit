@@ -1,0 +1,2 @@
+# NewGit
+first reposiroy
